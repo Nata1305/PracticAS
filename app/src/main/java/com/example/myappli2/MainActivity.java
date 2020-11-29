@@ -47,6 +47,8 @@ public class MainActivity extends AppCompatActivity {
                 if (questionIndex<6)
                     textView.setText(questions[questionIndex].getQuestionRecId());
                 else {
+                    yesBtn.setEnabled(false);
+                    noBtn.setEnabled(false);
                     textFinished.setText(R.string.textFinish);
                 }
 
@@ -66,6 +68,8 @@ public class MainActivity extends AppCompatActivity {
                     if (questionIndex<6)
                     textView.setText(questions[questionIndex].getQuestionRecId());
                     else  {
+                    yesBtn.setEnabled(false);
+                    noBtn.setEnabled(false);
                     textFinished.setText(R.string.textFinish);
                 }
 
