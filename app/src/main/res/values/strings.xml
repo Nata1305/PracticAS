@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Appliс2</string>
+    <string name="question1">2+4=8</string>
+    <string name="question2">2+8=8</string>
+    <string name="question3">4–4=0</string>
+    <string name="question4">3+4=7</string>
+    <string name="question5">9+4=13</string>
+    <string name="question6">7–2=6</string>
+    <string name="No">Нет</string>
+    <string name="Yes">Да</string>
+    <string name="Correct">Правильно</string>
+    <string name="Incorrect">Неправильно</string>
+    <string name="textFinish">Опрос закончен.Пройти ещё раз?</string>
+    <string name="Finish">Опрос закончен</string>
+
+
+</resources>
