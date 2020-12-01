@@ -1,17 +1,39 @@
 <resources>
     <string name="app_name">My Appliс2</string>
-    <string name="question1">2+4=8</string>
-    <string name="question2">2+8=8</string>
-    <string name="question3">4–4=0</string>
-    <string name="question4">3+4=7</string>
-    <string name="question5">9+4=13</string>
-    <string name="question6">7–2=6</string>
+    <string name="question1">Правда ли, что черепахи плачут?</string>
+    <string name="question2">Правда ли, что сказку «Цветик-семицветик» написал Пушкин?</string>
+    <string name="question3">Правда ли, что самые первые машины были двухколесными?</string>
+    <string name="question4">Правда ли, что крокодилы могут притворяться бревнами, спасаясь от врагов?</string>
+    <string name="question5">Правда ли, что Австралия – это самый большой материк?</string>
+    <string name="question6">Правда ли, что блины выпекают из ржаной муки? </string>
+    <string name="question7">Правда ли, что Марс ближайшая к Солнцу планета?</string>
+    <string name="question8">Правда ли, что на Земле больше соленой воды, чем пресной?</string>
+    <string name="question9">Правда ли, что шакал является родственником собаки?</string>
+    <string name="question10">Правда ли, что для производства стекла используют глину?</string>
+    <string name="question11">Правда ли, что у человека есть среднее ухо?</string>
+    <string name="question12">Правда ли, что рассерженная божья коровка может укусить?</string>
+    <string name="question13">Правда ли, что археологи проектируют здания?</string>
+    <string name="question14">Правда ли, что в шахматах ферзь главнее королевы?</string>
+    <string name="question15">Правда ли, что белые мишки, охотясь на тюленей, свой черный нос прикрывают лапой?</string>
+    <string name="question16">Правда ли, что бумагу изобрели японцы?</string>
+    <string name="question17">Правда ли, что ножовкой пилят? </string>
+    <string name="question18">Правда ли, что куры купаются в пыли – это к хорошей погоде? </string>
+    <string name="question19">Правда ли, что коричневый цвет получают, смешивая красный и зеленый? </string>
+    <string name="question20">Правда ли, что в русском языке 10 гласных звуков? </string>
     <string name="No">Нет</string>
     <string name="Yes">Да</string>
     <string name="Correct">Правильно</string>
     <string name="Incorrect">Неправильно</string>
-    <string name="textFinish">Опрос закончен.Пройти ещё раз?</string>
     <string name="Finish">Опрос закончен</string>
+    <string name="correct_answer">Правильный ответ</string>
+    <string name="help">Подсказка</string>
+    <string name="numbers_questions">"\n" Вопрос 1"\n" Вопрос 2"\n" Вопрос 3"\n" Вопрос 4"\n" Вопрос 5"\n" Вопрос 6"\n" Вопрос 7"\n"
+        Вопрос 8"\n" Вопрос 9"\n" Вопрос 10"\n" Вопрос 11"\n" Вопрос 12"\n" Вопрос 13"\n" Вопрос 14"\n" Вопрос 15"\n" Вопрос 16"\n"
+        Вопрос 17"\n" Вопрос 18"\n" Вопрос 19"\n" Вопрос 20"\n" </string>
+    <string name="word_finish">Опрос закончен</string>
+    <string name="go_again">Пройти ещё раз</string>
 
+
+    взято с http://shkolabuduschego.ru/viktorina/interesnaja-dlja-detei.html
 
 </resources>

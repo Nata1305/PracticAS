@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".ResultActivity">
+
+    <TextView
+        android:id="@+id/textResult"
+        android:textSize="40dp"
+        android:textColor="@color/colorPrimary"
+        android:gravity="center"
+        android:textStyle="italic"
+        android:text="@string/word_finish"
+        android:layout_margin="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+       <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+           android:orientation="horizontal"
+           android:gravity="center">
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="@string/numbers_questions"
+               android:textColor="#F80C0C0C"
+               android:id="@+id/allQuestion"
+               android:textSize="15dp"/>
+
+
+          <TextView
+        android:id="@+id/numbersTrue"
+        android:textSize="15dp"
+              android:textColor="#F80C0C0C"
+              android:textStyle="italic"
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/goAgain"
+        android:background="#87D85C"
+        android:layout_height="wrap_content"
+        android:text="@string/go_again"/>
+
+
+</LinearLayout>
